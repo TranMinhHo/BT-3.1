@@ -1,0 +1,11 @@
+D:\SourceCode\QuanLyNhanVien\QuanLyNhanVien.models\bin\Debug\net5.0\QuanLyNhanVien.models.deps.json
+D:\SourceCode\QuanLyNhanVien\QuanLyNhanVien.models\bin\Debug\net5.0\QuanLyNhanVien.models.dll
+D:\SourceCode\QuanLyNhanVien\QuanLyNhanVien.models\bin\Debug\net5.0\ref\QuanLyNhanVien.models.dll
+D:\SourceCode\QuanLyNhanVien\QuanLyNhanVien.models\bin\Debug\net5.0\QuanLyNhanVien.models.pdb
+D:\SourceCode\QuanLyNhanVien\QuanLyNhanVien.models\obj\Debug\net5.0\QuanLyNhanVien.models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\QuanLyNhanVien\QuanLyNhanVien.models\obj\Debug\net5.0\QuanLyNhanVien.models.AssemblyInfoInputs.cache
+D:\SourceCode\QuanLyNhanVien\QuanLyNhanVien.models\obj\Debug\net5.0\QuanLyNhanVien.models.AssemblyInfo.cs
+D:\SourceCode\QuanLyNhanVien\QuanLyNhanVien.models\obj\Debug\net5.0\QuanLyNhanVien.models.csproj.CoreCompileInputs.cache
+D:\SourceCode\QuanLyNhanVien\QuanLyNhanVien.models\obj\Debug\net5.0\QuanLyNhanVien.models.dll
+D:\SourceCode\QuanLyNhanVien\QuanLyNhanVien.models\obj\Debug\net5.0\ref\QuanLyNhanVien.models.dll
+D:\SourceCode\QuanLyNhanVien\QuanLyNhanVien.models\obj\Debug\net5.0\QuanLyNhanVien.models.pdb
